@@ -1,7 +1,7 @@
 # DjangoProject
- #About
+ # About
    A full featured Web Page using Django and Python.
    
-#Please Proceed to master branch.
+# Please Proceed to master branch.
 
-# DjangoProject
+
